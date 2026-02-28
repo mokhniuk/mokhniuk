@@ -47,11 +47,14 @@ I'm Oleg, Senior Frontend Engineer with 15+ years of experience building product
 [**Nostalist**](http://nostalist.app/)  
 Cross-platform Electron todo application. 
   
-**Vinyl Vault**
+[**MyKino**](http://mykino.app/)  
+Movie recommendation and tracking web application. 
+  
+**Vinyl Vault**  
 Collection management tool with Discogs sync and Spotify integration.  
 Focus: API integrations, playlist generation, GEMA-compliant setlist export, collection analytics.  
  
-**Positives**
+**Positives**  
 Film photography archive system.
 
 ---    
