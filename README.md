@@ -50,12 +50,9 @@ Cross-platform Electron todo application.
 [**MyKino**](http://mykino.app/)  
 Movie recommendation and tracking web application. 
   
-**Vinyl Vault**  
-Collection management tool with Discogs sync and Spotify integration.  
-Focus: API integrations, playlist generation, GEMA-compliant setlist export, collection analytics.  
- 
-**Positives**  
-Film photography archive system.
+[**Set Maker**](https://setmaker.app/)
+DJ-set creation tool with Discogs integration.  
+Focus: API integrations, playlist generation, GEMA-compliant setlist export.  
 
 ---    
 
