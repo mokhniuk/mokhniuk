@@ -50,9 +50,12 @@ Cross-platform Electron todo application.
 [**MyKino**](http://mykino.app/)  
 Movie recommendation and tracking web application. 
   
-[**Set Maker**](https://setmaker.app/)
+[**Set Maker**](https://setmaker.app/)  
 DJ-set creation tool with Discogs integration.  
 Focus: API integrations, playlist generation, GEMA-compliant setlist export.  
+
+[**Font Family**](https://github.com/mokhniuk/font-family)  
+Self-hosted fonts CDN using Supabase.
 
 ---    
 
