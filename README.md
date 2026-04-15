@@ -44,16 +44,19 @@ I'm Oleg, Senior Frontend Engineer with 15+ years of experience building product
   
 ## Current pet-projects  
   
-[**Nostalist**](http://nostalist.app/)  
-Cross-platform Electron todo application. 
-  
-[**MyKino**](http://mykino.app/)  
-Movie recommendation and tracking web application. 
+[**vibegallery.tech**](http://vibegallery.tech/)  
+A curated gallery of the apps and websites built with modern AI coding tools.
   
 [**Set Maker**](https://setmaker.app/)  
 DJ-set creation tool with Discogs integration.  
 Focus: API integrations, playlist generation, GEMA-compliant setlist export.  
 
+[**MyKino**](http://mykino.app/)  
+Movie recommendation and tracking web application. 
+  
+[**Nostalist**](http://nostalist.app/)  
+Cross-platform Electron todo application. 
+  
 [**Font Family**](https://github.com/mokhniuk/font-family)  
 Self-hosted fonts CDN using Supabase.
 
