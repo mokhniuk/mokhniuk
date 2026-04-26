@@ -43,7 +43,10 @@ I'm Oleg, Senior Frontend Engineer with 15+ years of experience building product
 ---  
   
 ## Current pet-projects  
-  
+
+[**Podiia**](http://podiia.app/)  
+Platform for curated events.
+
 [**vibegallery.tech**](http://vibegallery.tech/)  
 A curated gallery of the apps and websites built with modern AI coding tools.
   
