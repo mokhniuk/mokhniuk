@@ -44,6 +44,9 @@ I'm Oleg, Senior Frontend Engineer with 15+ years of experience building product
   
 ## Current pet-projects  
 
+[**Typography**](http://typography.mokhni.uk/)  
+My own typography engine to rule them all.
+
 [**Podiia**](http://podiia.app/)  
 Platform for curated events.
 
