@@ -44,6 +44,9 @@ I'm Oleg, Senior Frontend Engineer with 15+ years of experience building product
   
 ## Current pet-projects  
 
+[**Another Party**](http://anotherparty.app/)  
+Tiny app for private party invitations.
+
 [**Typography**](http://typography.mokhni.uk/)  
 My own typography engine to rule them all.
 
